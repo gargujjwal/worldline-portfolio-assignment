@@ -29,7 +29,7 @@ capabilities.
 - Created project structure and initialized Git repository
 - Planned website sections: About, Skills, Projects, Experience, and Contact
 - Designed mobile-first responsive layout
-- Set up development environment with VS Code
+- Set up development environment with `neovim`
 
 ### 2. HTML Structure Development
 
@@ -77,7 +77,7 @@ capabilities.
 - **Font Awesome**: Icons and visual elements
 - **Git**: Version control
 - **GitHub Pages**: Deployment platform
-- **VS Code**: Development environment
+- **neovim**: Development environment
 
 ## Project Structure
 
