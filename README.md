@@ -9,8 +9,8 @@ capabilities.
 
 ## Live Demo
 
-- GitHub Repository: [https://github.com/ujjwalgarg100204/worldline-portfolio-assignment.git]
-- Live Website: [https://ujjwalgarg100204.github.io/worldline-portfolio-assignment/]
+- GitHub Repository: [https://github.com/gargujjwal/worldline-portfolio-assignment.git]
+- Live Website: [https://gargujjwal.github.io/worldline-portfolio-assignment/]
 
 ## Table of Contents
 
